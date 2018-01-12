@@ -20,6 +20,7 @@ fancy_echo "Updating Homebrew formulae ..."
 brew bundle --file=- <<EOF
 brew "imagemagick"
 brew "ffmpeg"
+brew "emojify"
 EOF
 
 
